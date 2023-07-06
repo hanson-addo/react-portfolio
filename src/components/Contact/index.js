@@ -70,7 +70,8 @@ const Contact = () => {
                         </form>
                     </div>
                 </div>
-                <div className='info-map'>
+                {/**
+                 * <div className='info-map'>
                     Hanson Addo,
                     <br />                    
                     Alexandria, Virginia, 22309,
@@ -80,6 +81,8 @@ const Contact = () => {
                     <span>hanson.kwadwo.addo@gmail.com</span>
 
                 </div>
+                 */}
+                
                 
             </div>
             <Loader type='pacman' />

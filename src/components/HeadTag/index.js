@@ -19,7 +19,8 @@ const HeadTag = () => {
                     strArray={head}
                     idx={35} 
                 />  
-            </h1>       
+            </h1> 
+            <br />      
         </div>
     )
 }
