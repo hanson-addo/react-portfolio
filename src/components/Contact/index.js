@@ -72,10 +72,10 @@ const Contact = () => {
                 </div>
                 <div className='info-map'>
                     Hanson Addo,
+                    <br />                    
+                    Alexandria, Virginia, 22309,
                     <br />
                     United States of America,
-                    <br />
-                    Alexandria, Virginia, 22309,
                     <br />
                     <span>hanson.kwadwo.addo@gmail.com</span>
 
