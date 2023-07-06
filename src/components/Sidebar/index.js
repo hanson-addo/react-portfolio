@@ -4,7 +4,7 @@ import LogoS from '../../assets/images/logoH.png'
 import LogoSubtitle from '../../assets/images/logo_FH.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
-import { faGit, faGithub, faGithubSquare, faLinkedin, faLinkedinIn, faYoutube } from '@fortawesome/free-brands-svg-icons'
+import { faGithub,  faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
 
 const Sidebar = () => (

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import AnimatedLetters from '../../AnimatedLetter'
+import AnimatedLetters from '../AnimatedLetter'
 import './index.scss';
 
 const HeadTag = () => {
@@ -13,15 +13,13 @@ const HeadTag = () => {
     },[]);
 
     return (
-        <div className='head-container'>
-
-            <h3>
+        <div className='container head-container'>
+            <h1>
                 <AnimatedLetters letterClass={letterClass}
                     strArray={head}
                     idx={35} 
                 />  
-            </h3>
-        
+            </h1>       
         </div>
     )
 }

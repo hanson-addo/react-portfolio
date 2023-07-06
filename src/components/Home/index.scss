@@ -2,7 +2,7 @@
 
     .text-zone {
         position: absolute;
-        left:15%;
+        left:8%;
         top :auto;
         transform: translateY(-50%);
         width: 70%;
@@ -42,7 +42,7 @@
         img{
             width:100px;
             margin-left: 20px;
-            opacity: 10;
+            opacity: 0;
             height: auto;
             animation: rotateIn 0.8s linear both;
             animation-delay: 0.8s;
