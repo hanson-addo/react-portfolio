@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+* **Author:** Hanson Addo
+* **Render Deployment URL:** https://react-portfolio-1-zg7q.onrender.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
