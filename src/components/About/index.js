@@ -48,7 +48,7 @@ const About = () => {
                     and passion for technology to make a significant impact in the software development 
                     industry.
                 </p>
-                <a href="/Hanson_Kwadwo_Addo's-Resume.pdf" target="_blank" rel="noopener noreferrer" className='flat-button'>
+                <a href="/Hanson Kwadwo Addo's CV.pdf" target="_blank" rel="noopener noreferrer" className='flat-button'>
                     View Resume
                 </a>
             </div>
