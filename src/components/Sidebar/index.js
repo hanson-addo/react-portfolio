@@ -38,6 +38,15 @@ const Sidebar = () => {
                 <a 
                 target="_blank"
                 rel='noreferrer'
+                href ="https://www.linkedin.com/in/hansonaddo/"
+                >
+                    <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
+                </a>
+            </li>
+            <li>
+                <a 
+                target="_blank"
+                rel='noreferrer'
                 href ="https://github.com/hanson-addo"
                 >
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
