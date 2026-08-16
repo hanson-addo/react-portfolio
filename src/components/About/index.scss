@@ -100,3 +100,23 @@
   }
 }
 
+
+@media screen and (max-width: 1200px) {
+  .about-page .text-zone {
+    position: initial;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .about-page .flat-button {
+    float: none;
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 160px;
+  }
+
+  .stage-cube-cont {
+    display: none;
+  }
+}

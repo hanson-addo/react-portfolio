@@ -1,13 +1,13 @@
 .logo-container {
     z-index:0;
-    width:400px;
-    height :609px;
+    width:320px;
+    height :487px;
     top: 0;
     right: 15%;
     bottom: auto;
     left: auto; 
     margin: auto;
-    opacity: 0.5;
+    opacity: 0.35;
 
     svg{
         width: 100%;
@@ -24,7 +24,7 @@
         left: 55%;
         margin: auto;
         width: 60%;
-        opacity: 0.5;
+        opacity: 0.6;
         transform: rotateZ('30deg');
         z-index: 1;
     }
